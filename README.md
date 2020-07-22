@@ -10,3 +10,11 @@
 * Rust / C++ ( a little)
 * Hook / Mem read
 * (windows/android/linux/js bin) reverse
+
+## Product & Solver
+* akamai cookies creator
+* akamai-bmp x-acf-sensor-data creator
+* perimeterx cookies creator
+* ticket bypass
+* tls client request lib(provide .so .dll)
+* crawler optimization, high performance bot 
