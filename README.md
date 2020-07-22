@@ -4,9 +4,9 @@
 * Windows and android client reverse engine
 * Robot detection system (same like nginx plugin)
 
-
 ## What am I working with
 * Node.JS
 * Glang
-* Rust
+* Rust / C++ ( a little)
 * Hook
+* (windows/android/linux/js bin) reverse
