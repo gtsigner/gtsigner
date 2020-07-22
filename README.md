@@ -17,4 +17,6 @@
 * perimeterx cookies creator
 * ticket bypass
 * tls client request lib(provide .so .dll)
+* geetest/tecent/yundun slider solver
+* nginx bot detection plugin (simple website defense)
 * crawler optimization, high performance bot 
