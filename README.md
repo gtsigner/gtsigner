@@ -20,3 +20,10 @@
 * geetest/tecent/yundun slider solver
 * nginx bot detection plugin (simple website defense)
 * crawler optimization, high performance bot 
+* xposed hide / custom xposed 
+
+
+## Find partner
+* Proficient in python and you have to know machine learning & machine vision
+* Reverse safety engineer
+* Cloud native engineer
