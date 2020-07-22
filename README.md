@@ -6,7 +6,7 @@
 
 ## What am I working with
 * Node.JS
-* Glang
+* Golang
 * Rust / C++ ( a little)
-* Hook
+* Hook / Mem read
 * (windows/android/linux/js bin) reverse
