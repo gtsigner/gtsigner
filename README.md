@@ -19,7 +19,7 @@
 * tls client request lib(provide .so .dll)
 * geetest/tecent/yundun slider solver
 * nginx bot detection plugin (simple website defense)
-* crawler optimization, high performance bot 
+* crawler optimization, high performance bot framework
 * xposed hide / custom xposed 
 
 
