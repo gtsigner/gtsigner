@@ -11,18 +11,6 @@
 * Hook / Mem read
 * (windows/android/linux/js bin) reverse
 
-## Product & Solver
-* akamai cookies creator
-* akamai-bmp x-acf-sensor-data creator
-* perimeterx cookies creator
-* ticket bypass
-* tls client request lib(provide .so .dll)
-* geetest/tecent/yundun slider solver
-* nginx bot detection plugin (simple website defense)
-* crawler optimization, high performance bot framework
-* xposed hide / custom xposed 
-
-
 ## Find partner
 * Proficient in python and you have to know machine learning & machine vision
 * Reverse safety engineer
