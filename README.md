@@ -33,4 +33,4 @@
 ## Contact me
  * buy me a coffee to click:  https://www.buymeacoffee.com/godtoy
  * Wechat: gtfeature
- * Email: zhaojunlike@gmail.com / zhaojunlike@qq.com
+ * Email: zhaojunlike@gmail.com
