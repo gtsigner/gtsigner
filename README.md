@@ -38,4 +38,4 @@
 
 ## MyStats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=godtoy&show_icons=true&theme=highcontrast&include_all_commits=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godtoy&layout=compact&theme=highcontrast&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godtoy&layout=compact&theme=highcontrast&langs_count=6)
