@@ -13,13 +13,6 @@
 
 
 ## Product & Solver	
-* akamai cookies creator	
-* akamai-bmp creator	
-* perimeterx cookies creator	
-* ticket bypass	
-* tls client request lib(provide .so .dll)	
-* couldflare tls detect
-* geetest/tecent/yundun slider solver	
 * nginx bot detection plugin (simple website defense)	
 * crawler optimization
 * high performance bot framework	
@@ -32,7 +25,6 @@
 
 
 ## Contact me
- * buy me a coffee to click:  https://www.buymeacoffee.com/godtoy
  * Wechat: gtfeature
  * Email: zhaojunlike@gmail.com
 
