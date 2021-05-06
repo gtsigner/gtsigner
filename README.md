@@ -35,4 +35,4 @@ https://firewall.oeynet.com/safe/fire
 
 ## Find help & Buy me a coffee
 
-dogecoin:DD668nzir41DBgF99qDvYzDjKuSP4HDD3H
+dogecoin: DPFB9yhTUQNL3bvpWVYKTiBg5QCcqQtyKk
