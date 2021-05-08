@@ -1,3 +1,9 @@
+## Ask for help
+> Buy me a coffee, https://www.buymeacoffee.com/godtoy
+
+> Feed me dog food, Dogecoin: `DJKqNBEEV9ogicm1N6jptnXsFyS3kGNZDe`
+
+
 ## What am I working on
 * Automation tools and software for select clients
 * Membership services and websites
@@ -32,9 +38,3 @@
 ## Bot detect plugin
 https://firewall.oeynet.com/safe/fire
 
-
-## Ask for help or Buy me a coffee
-
-https://www.buymeacoffee.com/godtoy
-
-Dogecoin: `DJKqNBEEV9ogicm1N6jptnXsFyS3kGNZDe`
