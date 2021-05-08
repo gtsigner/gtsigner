@@ -33,6 +33,8 @@
 https://firewall.oeynet.com/safe/fire
 
 
-## Find help & Buy me a coffee
+## Ask for help or Buy me a coffee
 
-dogecoin: `DJKqNBEEV9ogicm1N6jptnXsFyS3kGNZDe`
+https://www.buymeacoffee.com/godtoy
+
+Dogecoin: `DJKqNBEEV9ogicm1N6jptnXsFyS3kGNZDe`
