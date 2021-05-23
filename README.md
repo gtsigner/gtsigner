@@ -9,6 +9,7 @@
 * Membership services and websites
 * Windows and android client reverse engine
 * Robot detection system (same like nginx plugin)
+* New player on blockchain
 
 ## What am I working with
 * Node.JS
