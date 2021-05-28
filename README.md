@@ -34,6 +34,7 @@
 ## Contact me
  * Wechat: gtfeature
  * Email: zhaojunlike@gmail.com
+ * Discord: gt#9693
 
 
 ## Bot detect plugin
