@@ -40,3 +40,9 @@
 ## Bot detect plugin
 https://firewall.oeynet.com/safe/fire
 
+
+
+## My Open Projects
+- [A pancakeswap auto arbitrage bot](https://github.com/godtoy/bsc-swap-autotrade-bot-v1)
+- [Geetest slider cracker](https://github.com/godtoy/gt-geetest)
+
