@@ -24,6 +24,7 @@
 * crawler optimization
 * high performance bot framework	
 * xposed hide / custom xposed 
+* akamai / px / kasada / cloudflare / datadome / geetest solution
 
 ## Find partner
 * Proficient in python and you have to know machine learning & machine vision
