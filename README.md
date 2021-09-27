@@ -10,8 +10,6 @@
 * Windows and android client reverse engine
 * Robot detection system (same like nginx plugin)
 * New player on blockchain
-
-## What am I working with
 * Node.JS
 * Golang
 * Rust / C++ ( a little)
@@ -25,6 +23,7 @@
 * high performance bot framework	
 * xposed hide / custom xposed 
 * akamai / px / kasada / cloudflare / datadome / geetest solution
+* A automatic tool build by electon & puppeteer-core
 
 ## Find partner
 * Proficient in python and you have to know machine learning & machine vision
