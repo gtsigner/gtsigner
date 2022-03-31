@@ -23,6 +23,7 @@
 * high performance bot framework	
 * xposed hide / custom xposed 
 * akamai / px / kasada / cloudflare / datadome / geetest solution
+* recaptcha / hcaptcha solution
 * A automatic tool build by electon & puppeteer-core
 
 ## Find partner
