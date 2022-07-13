@@ -1,12 +1,9 @@
 ## What am I working on
 * Automation tools and software for select clients
-* Membership services and websites
 * Windows and android client reverse engine
-* Robot detection system (same like nginx plugin)
+* Robot traffic detection system (tls+http2+tcp)
 * New player on blockchain
-* Node.JS
-* Golang
-* Rust / C++ ( a little)
+* Golang / Node.Js / Rust / C++ ( a little)
 * Hook / Mem read
 * (windows/android/linux/js bin) reverse
 
