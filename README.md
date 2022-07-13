@@ -1,6 +1,5 @@
 ## What am I working on
 * Automation tools and software for select clients
-* Windows and android client reverse engine
 * Robot traffic detection system (tls+http2+tcp)
 * New player on blockchain
 * Golang / Node.Js / Rust / C++ ( a little)
@@ -21,14 +20,3 @@
 * Proficient in python and you have to know machine learning & machine vision
 * Reverse safety engineer
 * Cloud native engineer
-
-
-## Contact me
- * Email: zhaojunlike@gmail.com
- * Discord: gt#9693
-
-
-## My Open Projects
-- [A pancakeswap auto arbitrage bot](https://github.com/godtoy/bsc-swap-autotrade-bot-v1)
-- [Geetest slider cracker](https://github.com/godtoy/gt-geetest)
-
